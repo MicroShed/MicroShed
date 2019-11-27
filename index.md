@@ -27,8 +27,7 @@ There are two, separate active Boost projects.
 
 ## [VS Code MicroProfile Starter Extension](https://github.com/MicroShed/mp-starter-vscode-ext)
 
-A VS Code extension for the [MicroProfile Starter](https://start.microprofile.io/). This extension makes use of the API https://test-start
-.microprofile.io/api/2.
+A VS Code extension for the [MicroProfile Starter](https://start.microprofile.io/). This extension makes use of the API https://test-start.microprofile.io/api/2.
 
 ## [MicroProfile Starter Plugin for IntelliJ](https://github.com/MicroShed/mp-starter-intellij-ext)
 
