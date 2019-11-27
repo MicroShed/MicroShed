@@ -27,9 +27,15 @@ There are two, separate active Boost projects.
 
 ## [VS Code MicroProfile Starter Extension](https://github.com/MicroShed/mp-starter-vscode-ext)
 
-A VS Code extension for the MicroProfile Starter (https://start.microprofile.io/). This extension makes use of the API https://test-start.microprofile.io/api/2.
+A VS Code extension for the [MicroProfile Starter](https://start.microprofile.io/). This extension makes use of the API https://test-start
+.microprofile.io/api/2.
+
+## [MicroProfile Starter Plugin for IntelliJ](https://github.com/MicroShed/mp-starter-intellij-ext)
+
+An IntelliJ IDE plugin for the [MicroProfile Starter](https://start.microprofile.io/). This plugin incorporates the MicroProfile Starter REST API
+ available at [https://start.microprofile.io/api/](https://start.microprofile.io/api/) to generate the maven project.
 
 ## [VS Code MicroProfile Rest Client Generator Extension](https://github.com/MicroShed/mp-rest-client-generator-vscode-ext)
 
-A MicroProfie VS Code extension that generates a MicroProfile Rest Client interface template from an OpenAPI .yaml file. 
+A MicroProfile VS Code extension that generates a MicroProfile Rest Client interface template from an OpenAPI .yaml file. 
 This extension makes use of the openapi-generator. This extension will generate models and apis folders.
